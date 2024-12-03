@@ -4,8 +4,7 @@ publishDate: 2019-10-02 00:00:00
 img: /assets/flashcard.gif
 img_alt: flashcard program.
 description: |
-  We developed brand positioning and design assets for the launch
-  of a new colored water product.
+ A flashcard program that works with tkinter there a timer and 2 functions going back and forth, you could easily port a dataset of flashcards could be a text file etc,
 tags:
   - tkinter
   - python
