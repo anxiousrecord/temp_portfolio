@@ -1,7 +1,7 @@
 ---
 title: Booktracker
 publishDate: 2020-03-02 00:00:00
-img: /assets/booktrackerapp.png
+img: /assets/booktrackerapp.jpg
 img_alt: homescreen of the booktracker app
 description: |
   A desktop application to help you keep tracks of the book you've read

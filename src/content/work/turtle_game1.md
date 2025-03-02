@@ -16,5 +16,3 @@ tags:
 
 Using the turtle library, I was able to create a fun game that plays like crossy road. This project allowed me to have a better grasp of OOP , In particular Inheritance and being able to tidy up code and have every section, scoreboard, players, cars all as their own module and class. This project was rewarding to playtest countless time to get the values of the distances in the car as well as the gap between each car so that the turtle could squeeze in between.
 
-
-<iframe width="960" height="540" src="https://www.youtube.com/embed/4Taodi3xNco" title="Booktracker demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

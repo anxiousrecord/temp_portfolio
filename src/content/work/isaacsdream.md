@@ -1,7 +1,7 @@
 ---
 title: Isaac's Dream
 publishDate: 2020-03-02 00:00:00
-img: /assets/isaacsdream.png
+img: /assets/isaacdream.png
 img_alt: turtle game in action
 description: |
   A godot game
