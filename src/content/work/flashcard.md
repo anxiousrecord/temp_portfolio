@@ -11,5 +11,4 @@ tags:
 ---
 
 A flashcard program that works with tkinter there a timer and 2 functions going back and forth, you could easily port a dataset of flashcards could be a text file etc,
-there was a timer of 5 seconds and if you got the answer right you can press the tick and it will go the next random card, if not you could hit the X and it will reassign the card back to the deck.
-
+there is a timer of 5 seconds and if you got the answer right you can press the tick and it will go the next random card, if not you could hit the X and it will reassign the card back to the deck. Pressing the tick will remove that specific card from the deck. After the end of a session it is all saved locally.
